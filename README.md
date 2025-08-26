@@ -67,7 +67,7 @@ Please refer to the [Evaluation](https://tinyllava-factory.readthedocs.io/en/lat
 
 ### Legacy Models
 
-which are trained using the old codebase TinyLLaVABench.
+Comparison of experimental results.
 <img width="1300" height="993" alt="image" src="https://github.com/user-attachments/assets/0acbb6d3-dade-44db-a3d8-0b998ae2934d" />
 
 
