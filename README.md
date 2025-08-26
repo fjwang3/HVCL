@@ -61,9 +61,9 @@ Please refer to the [Evaluation](https://tinyllava-factory.readthedocs.io/en/lat
 
 #### Model Performance
 
-| VT (HF Path)                      | LLM (HF Path)                      | Recipe    | VQA-v2 | GQA  | SQA-image | TextVQA | MM-Vet | POPE | MME    | MMMU-val |
-| --------------------------------- | ---------------------------------- | --------- | :----: | :--: | :-------: | :-----: | :----: | :--: | :----: | :------: |
-| google/siglip-so400m-patch14-384  | microsoft/phi-2                    | share     | 80.96   | 64.14 | 71.59     | 59.23   |36.1  | 88.37 | 1488.96 | 37.3    |
+| VT (HF Path)                      | LLM (HF Path)                       | VQA-v2 | GQA  | SQA-image | TextVQA | MM-Vet | POPE | MME    | MMMU-val |
+| --------------------------------- | ----------------------------------  | :----: | :--: | :-------: | :-----: | :----: | :--: | :----: | :------: |
+| google/siglip-so400m-patch14-384  | microsoft/phi-2                     | 80.96   | 64.14 | 71.59     | 59.23   |36.1  | 88.67 | 1488.96 | 37.3    |
 
 ### Legacy Models
 
