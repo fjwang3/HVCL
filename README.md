@@ -10,7 +10,7 @@ Please note that our environment requirements are different from LLaVA's environ
 1. Clone this repository and navigate to the folder
 ```bash
 git clone https://github.com/HVCL/HVCL.git
-cd SHC
+cd HVCL
 ```
 
 2. Create a conda environment, activate it and install Packages
